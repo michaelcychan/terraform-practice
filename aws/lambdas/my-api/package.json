@@ -15,5 +15,8 @@
     "@types/aws-lambda": "^8.10.161",
     "@types/node": "^25.5.0",
     "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.1021.0"
   }
 }

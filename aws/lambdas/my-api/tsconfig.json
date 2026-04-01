@@ -20,7 +20,8 @@
     "outDir": "dist",
     "lib": [
       "es2022", "dom"
-    ]
+    ],
+    "types": ["node"]
   },
   // Include the necessary files for your project
   "include": [
